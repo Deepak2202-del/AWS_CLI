@@ -72,3 +72,7 @@ Replace `<AMI-ID>`, `<instance-type>`, `<key-pair-name>`, `<security-group-id>`,
 ## Conclusion
 
 Congratulations! You have successfully installed and configured the AWS CLI on your Windows machine. You can now start using the AWS CLI to manage your AWS resources efficiently. For more advanced usage and commands, refer to the [AWS CLI documentation (  https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html )
+
+ Commands references 
+
+https://docs.aws.amazon.com/cli/latest/reference/
